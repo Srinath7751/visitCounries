@@ -1,0 +1,29 @@
+.list-item {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+}
+
+.image {
+  height: 70px;
+  width: 110px;
+}
+
+.name-delete {
+  display: flex;
+  flex-direction: row;
+  background-color: #334155;
+  padding: 10px;
+}
+
+.name {
+  color: #ffffff;
+  font-size: 10px;
+}
+
+.button {
+  background-color: transparent;
+  outline-color: #ffffff;
+  color: #ffffff;
+  padding: 10px;
+}

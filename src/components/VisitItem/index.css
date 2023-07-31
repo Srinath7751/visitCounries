@@ -1,0 +1,27 @@
+.list-items {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 5px;
+}
+.country {
+  color: #ffffff;
+  font-size: 10px;
+}
+
+.visited {
+  color: #94a3b8;
+  font-size: 10px;
+}
+
+.button {
+  background-color: #3b82f6;
+  border-radius: 5px;
+  padding: 10px;
+  color: #ffffff;
+}
+
+.line {
+  color: #94a3b8;
+}
